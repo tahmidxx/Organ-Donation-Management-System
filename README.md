@@ -1,13 +1,13 @@
 
-# Blood and Organ Donation Management System (BDMS)
+# Organ Donation Management System (BDMS)
 
-A web-based application designed to manage organ and blood donations, built using PHP and MySQL. The system allows users to register as donors or request donations, providing an interface for efficient management and connection between donors and recipients.
+A web-based application designed to manage organ donations, built using PHP and MySQL. The system allows users to register as donors or request donations, providing an interface for efficient management and connection between donors and recipients.
 
 ## 🛠️ Features
 
 - User Registration and Login
 - Organ Donation Form and Management
-- Blood Donation and Request System
+- Organ Donation and Request System
 - Contact and About Pages
 - Database Connectivity with MySQL
 - Modular Code Structure (header, footer, DB connection)
