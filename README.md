@@ -1,5 +1,5 @@
 
-# Organ Donation Management System (BDMS)
+# Organ Donation Management System (ODMS)
 
 A web-based application designed to manage organ donations, built using PHP and MySQL. The system allows users to register as donors or request donations, providing an interface for efficient management and connection between donors and recipients.
 
