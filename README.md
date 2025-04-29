@@ -61,4 +61,4 @@ For any inquiries or contributions, feel free to reach out:
 
 **Md. Tahmid**  
 📧 tahmid.career@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+
